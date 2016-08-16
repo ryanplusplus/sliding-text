@@ -1,5 +1,3 @@
-# sliding-text
+# sliding-text-plus-plus
 
-![](screenshots/screenshot.png)
-
-The classic watchface for Pebble and Pebble Steel.
+Remix of the classic watchface for Pebble and Pebble Steel.

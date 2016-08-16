@@ -1,0 +1,33 @@
+{
+  "name": "sliding-text-plus-plus",
+  "author": "ryanplusplus",
+  "version": "1.0.0",
+  "repository": "https://github.com/ryanplusplus/sliding-text-plus-plus",
+  "keywords": [
+    "pebble-app"
+  ],
+  "private": true,
+  "dependencies": {},
+  "license": "MIT",
+  "pebble": {
+    "displayName": "Sliding Text++",
+    "uuid": "f1b95dbc-891f-4a31-821b-6d65f314ae44",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk"
+    ],
+    "capabilities": [
+      "location"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "messageKeys": [],
+    "resources": {
+      "media": []
+    }
+  }
+}
